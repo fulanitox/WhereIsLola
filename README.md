@@ -23,5 +23,7 @@ As part of a development team, I was specifically responsible for:
 ## ⚠️ Compilation Note
 This repository contains the source code and assets. Due to the specific path dependencies of the academic environment and the RGBDS toolchain, it is intended as a **code showcase** rather than a "plug-and-play" build. 
 
+## 🕹️ Play the Game
+**The latest stable build is available on itch.io:** 👉 [**Where Is Lola? on itch.io**](https://pixelvault.itch.io/where-is-lola)
 ---
 *This project is archived and was developed for educational purposes.*

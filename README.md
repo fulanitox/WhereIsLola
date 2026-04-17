@@ -1,4 +1,4 @@
-# WIL - Game Boy Retro Adventure (SM83 Assembly)
+# Where Is Lola? - Game Boy Retro Adventure (SM83 Assembly)
 
 This is a retro videogame developed for the original **Nintendo Game Boy**, written entirely in **SM83 Assembly**. This project was created as part of an academic challenge focused on low-level hardware optimization and direct memory management.
 
